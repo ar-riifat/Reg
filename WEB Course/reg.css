@@ -1,0 +1,29 @@
+.footer
+{
+  background-color:#3b4362;
+  padding:45px 0 20px 600px;
+  font-size:15px;
+  line-height:24px;
+  color:#eae9e9;
+  
+}
+
+body{
+    padding: auto;
+    align-items: center;
+    background-image: url(image/bck.JPG);
+}
+.all{
+    padding: 10px 0px 5px 600px;
+}
+h2{
+    text-align: center;
+}
+.sub{
+    padding: 0 0 0 100px;
+}
+.hidden {
+    display: none;
+    border: 1px solid turquoise;
+    padding: 10px;
+  } 
